@@ -8,6 +8,8 @@ public class Operators
 		int i2 = 20;
 		int i3 = i1*i2;
 	   System.out.println(i3);
+	   System.out.println(i2);
+		
 		
 	   double d1 =5;
 	   double d2 =10;
