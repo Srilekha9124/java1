@@ -18,7 +18,7 @@ public class Class_2
 		short y = 40;
 	    int  z = x-y;
 		System.out.println(z);
-		System.out.println(x);
+		//System.out.println(x);
 		
 	    float f1 = 40.24f;
 	    float f2 = 30f;
