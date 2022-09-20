@@ -14,6 +14,7 @@ public class Class_2
 		int c = a+b;
 		System.out. println(c);
 		System.out. println(b);
+		System.out. println(b);
 
 		
 		short x = 50;
