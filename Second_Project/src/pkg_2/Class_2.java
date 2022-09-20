@@ -13,15 +13,13 @@ public class Class_2
 		//System.out.println("maximum value of short"+ Short.MAX_VALUE);
 		int c = a+b;
 		System.out. println(c);
-		
-		
-
+		System.out. println("srilekha");
 		
 		short x = 50;
 		short y = 40;
 	    int  z = x-y;
 		System.out.println(z);
-		//System.out.println(x);
+		System.out.println(x);
 		
 	    float f1 = 40.24f;
 	    float f2 = 30f;
